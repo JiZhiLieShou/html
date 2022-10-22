@@ -1,2 +1,2 @@
 # Javascript
-Javascript学习案例！！！
+Javascript一些代码学习案例！！！
